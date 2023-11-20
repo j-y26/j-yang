@@ -1,0 +1,58 @@
+baseURL: 'https://j-y26.github.io/j-yang/'
+title: 'Jielin Yang'
+paginate: 5
+theme: 'PaperMod'
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+
+params:
+  profileMode:
+    enabled: true
+    title: "Jielin Yang"
+    subtitle: |-
+      Bioinformatics and Computational Biology - University of Toronto
+
+      Developmental and Stem Cell Biology & Translational Medicine - SickKids
+
+      Toronto Lung Transplant Program - University Health Network
+
+  socialIcons: # optional
+    - name: linkedin
+      url: "https://www.linkedin.com/in/jielin-yang/"
+    - name: Github
+      url: "https://github.com/j-y26"
+
+  ShowShareButtons: true
+  ShareButtons: ["linkedin", "twitter", "whatsapp"]
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+
+  menu:
+    main:
+      - name: Research
+        url: research
+        weight: 1
+      - name: Publications
+        url: publications
+        weight: 2
+      - name: Archives
+        url: archives
+        weight: 3
+      - name: Search
+        url: search/
+        weight: 4
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary for the search functionality to work
