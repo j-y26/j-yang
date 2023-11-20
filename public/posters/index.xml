@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posters on Jielin Yang</title>
+    <link>https://j-y26.github.io/j-yang/posters/</link>
+    <description>Recent content in Posters on Jielin Yang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://j-y26.github.io/j-yang/posters/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023 RI Retreat</title>
+      <link>https://j-y26.github.io/j-yang/posters/2023_ri_retreat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://j-y26.github.io/j-yang/posters/2023_ri_retreat/</guid>
+      <description>Profiling of the epigenetic landscape of regenerative and non-regenerative mouse cardiomyocytes Authors Jielin Yang
+Amaury Aguilar
+Jibran Syed
+Paul Delgado-Olguin
+Abstract The mammalian heart remains one of the least regenerative tissues. However, the mouse heart exhibits a remarkable regenerative capacity at postnatal day 0 (P0), contrasting with the diminished regenerative potential observed at postnatal day 7 (P7). This transition aligns with the process of cardiomyocyte maturation, during which cardiomyocytes are characterized by hypertrophic growth, sarcomere organization, enhanced metabolic activity, and cell cycle exit.</description>
+    </item>
+    
+  </channel>
+</rss>

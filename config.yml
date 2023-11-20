@@ -47,9 +47,12 @@ params:
       - name: Archives
         url: archives
         weight: 3
+      - name: Posters
+        url: posters/
+        weight: 4
       - name: Search
         url: search/
-        weight: 4
+        weight: 5
 
 outputs:
   home:

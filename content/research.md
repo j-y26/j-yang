@@ -18,6 +18,8 @@ elucidate the lineages of basal stem cells within a proximal iPSC model.
 Additionally, I employ gene-editing technologies to create a reporter cell 
 line for distal lung development and maturation.
 
+<br/>
+
 ### [Dr. Paul Delgado-Olguin's Lab](https://lab.research.sickkids.ca/delgado-olguin/)
 
 ![](https://raw.githubusercontent.com/j-y26/j-yang/main/content/images/heartfailure_1200x800.png)
@@ -26,6 +28,8 @@ I primarily investigate the dynamics of genome organization in cardiomyocytes
 using high-throughput genomic and transcriptomic approaches to understand the 
 regulatory mechanisms of heart development and regeneration. I also develop
 and characterize a new model of pediatric heart failure.
+
+<br/>
 
 ### [Dr. Chung-Wai Chow's Lab](https://chowlab.wordpress.com/)
 

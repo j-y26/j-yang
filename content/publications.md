@@ -22,3 +22,11 @@ Quantification of Age‐Specific Circulating Exosomes via Biologically Activated
 Graphene Transistors. *Advanced Biology*. 2021 Jul;5(7):2000594.
 
 [*link*](https://onlinelibrary.wiley.com/doi/10.1002/adbi.202000594)
+
+<br/> 
+
+## Posters & Presentations
+
+### 2023
+
+[Profiling of the epigenetic landscape of regenerative and non-regenerative mouse cardiomyocytes]({{< relref "/posters/2023_ri_retreat.md" >}})
