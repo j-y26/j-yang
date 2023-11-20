@@ -1,7 +1,8 @@
 ---
-title: "My Research"
+title: "Research"
 layout: "research"
 menu: "main"
+weight: 1
 ---
 
 I am currently a 4th-year undergraduate students working on independent 
@@ -17,7 +18,7 @@ elucidate the lineages of basal stem cells within a proximal iPSC model.
 Additionally, I employ gene-editing technologies to create a reporter cell 
 line for distal lung development and maturation.
 
-### [Dr. Paul Delgado-Olguin's Lab]
+### [Dr. Paul Delgado-Olguin's Lab](https://lab.research.sickkids.ca/delgado-olguin/)
 
 ![](https://raw.githubusercontent.com/j-y26/j-yang/main/content/images/heartfailure_1200x800.png)
 
@@ -28,7 +29,7 @@ and characterize a new model of pediatric heart failure.
 
 ### [Dr. Chung-Wai Chow's Lab](https://chowlab.wordpress.com/)
 
-
+![](https://raw.githubusercontent.com/j-y26/j-yang/main/content/images/spectral-ib-x-2.jpg)
 
 I study oscillometry as a new method to assess lung function in patients
 following lung transplantation as well as patients with other lung diseases,

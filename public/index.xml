@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Jielin Yang</title>
+    <link>https://j-y26.github.io/j-yang/</link>
+    <description>Recent content on Jielin Yang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://j-y26.github.io/j-yang/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research</title>
+      <link>https://j-y26.github.io/j-yang/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://j-y26.github.io/j-yang/research/</guid>
+      <description>I am currently a 4th-year undergraduate students working on independent research projects with the following labs:
+Dr. Amy Wong&amp;rsquo;s Lab I am interested in comprehending the cellular developmental trajectories during human lung development at a single-cell resolution. This endeavour aims to elucidate the lineages of basal stem cells within a proximal iPSC model. Additionally, I employ gene-editing technologies to create a reporter cell line for distal lung development and maturation.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://j-y26.github.io/j-yang/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://j-y26.github.io/j-yang/publications/</guid>
+      <description>2023 Ahmed A, Syed JN, Chi L, Wang Y, Perez-Romero C, Lee D, Kocaqi E, Caballero A, Yang J, Escalante-Covarrubias Q, Ishimura A. KDM8 epigenetically controls cardiac metabolism to prevent initiation of dilated cardiomyopathy. Nature Cardiovascular Research. 2023 Feb;2(2):174-91.
+link
+2021 Hajian R, DeCastro J, Parkinson J, Kane A, Camelo AF, Chou PP, Yang J, Wong N, Hernandez ED, Goldsmith B, Conboy I. Rapid and Electronic Identification and Quantification of Age‐Specific Circulating Exosomes via Biologically Activated Graphene Transistors.</description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>
