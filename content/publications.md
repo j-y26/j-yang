@@ -27,6 +27,10 @@ Graphene Transistors. *Advanced Biology*. 2021 Jul;5(7):2000594.
 
 ## Posters & Presentations
 
+### 2024
+
+[Profiling the epigenetic landscape with 3D chromatin topology of regenerative and non-regenerative mouse cardiomyocytes]({{< relref "/posters/2024_tm_symposium.md" >}})
+
 ### 2023
 
 [Profiling of the epigenetic landscape of regenerative and non-regenerative mouse cardiomyocytes]({{< relref "/posters/2023_ri_retreat.md" >}})

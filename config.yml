@@ -16,11 +16,9 @@ params:
     enabled: true
     title: "Jielin Yang"
     subtitle: |-
+      Translational Medicine - SickKids
+
       Bioinformatics and Computational Biology - University of Toronto
-
-      Developmental and Stem Cell Biology & Translational Medicine - SickKids
-
-      Toronto Lung Transplant Program - University Health Network
 
   socialIcons: # optional
     - name: linkedin
