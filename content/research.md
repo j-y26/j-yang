@@ -19,7 +19,7 @@ and characterize a new model of pediatric heart failure.
 
 ### [Dr. Agostino Pierro's Lab](https://lab.research.sickkids.ca/pierro/)
 
-![](https://raw.githubusercontent.com/j-y26/j-yang/main/content/images/NEC.jpg)
+![](https://raw.githubusercontent.com/j-y26/j-yang/main/content/images/NEC.png)
 
 I study the molecular mechanisms underlying pathological neonatal intestinal
 diseases, such as necrotizing enterocolitis (NEC), and various treatment
