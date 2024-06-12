@@ -1,6 +1,5 @@
 ---
 title: "Publications"
-layout: "publications"
 menu: "main"
 weight: 2
 ---

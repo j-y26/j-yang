@@ -1,6 +1,5 @@
 ---
 title: "Research"
-layout: "research"
 menu: "main"
 weight: 1
 ---

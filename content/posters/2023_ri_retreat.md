@@ -1,6 +1,5 @@
 ---
 title: "2023 RI Retreat"
-layout: "2023RIRetreat"
 ---
 
 ## Profiling of the epigenetic landscape of regenerative and non-regenerative mouse cardiomyocytes  

@@ -1,6 +1,5 @@
 ---
 title: "2024 TM Symposium"
-layout: "2024TMSymposium"
 ---
 
 ## Profiling of the epigenetic landscape of regenerative and non-regenerative mouse cardiomyocytes  
